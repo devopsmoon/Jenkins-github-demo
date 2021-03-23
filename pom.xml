@@ -15,12 +15,12 @@
         <repository>
             <id>releases</id>
             <name>myrepo</name>
-            <url>http://13.127.72.220:8081/repository/myrepo/</url>
+            <url>http://52.66.246.234:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>myrepo1</name>
-            <url>http://13.127.72.220:8081/repository/myrepo1/</url>
+            <url>http://52.66.246.234:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
